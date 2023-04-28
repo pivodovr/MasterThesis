@@ -26,7 +26,7 @@ python lamacodeepneat_mnist_example.py
  |  - examples  - CDN, LamaCDN experiment scripts
  |  - tests     - CDN, LamaCDN implementation test scripts
  |  - tfne      - CDN and LamaCDN implementation
- - MOLamaCODeepNEAT
+ - MOLamaCoDeepNEAT
  |  - examples  - MOLamaCDN experiment scripts
  |  - tests     - MOLamaCDN implementation test scripts
  |  - tfne      - MOLamaCDN implementation
